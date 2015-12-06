@@ -1,0 +1,11 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "Chat Client",
+  "main": "index.js",
+  "author": "Jonathan Woollard",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  }
+}
